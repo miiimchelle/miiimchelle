@@ -2,7 +2,7 @@
 
 I design systems, not just screens.
 
-I’m a **Senior Product Designer** working at the intersection of **design systems, platform UX, and engineering**, with a growing focus on **design engineering**. I care about clarity, scale, and making complex things feel boringly usable.
+I’m a **Senior Product Designer** working at the intersection of **design systems, platform UX, and engineering**, with a growing focus on **design systems**. I care about clarity, scale, and making complex things feel boringly usable.
 
 Most of my work lives in enterprise SaaS, where ambiguity is high, constraints are real, and systems either hold or collapse under their own weight. I'm currently working at 📍 **PwC UK**.
 
