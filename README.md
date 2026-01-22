@@ -10,7 +10,6 @@ Most of my work lives in enterprise SaaS, where ambiguity is high, constraints a
 
 - Linkedin: [My Linkedin](https://www.linkedin.com/in/michelle-luo-b9931a12a/)
 - Portfolio: _work in progress, intentionally_
-- GitHub: you’re already here
 - If you’re into design systems, platform UX, or design × engineering — we’ll probably get along
 
 ## What I’m known for
