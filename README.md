@@ -4,9 +4,14 @@ I design systems, not just screens.
 
 I’m a **Senior Product Designer** working at the intersection of **design systems, platform UX, and engineering**, with a growing focus on **design engineering**. I care about clarity, scale, and making complex things feel boringly usable.
 
-Most of my work lives in enterprise SaaS, where ambiguity is high, constraints are real, and systems either hold—or collapse under their own weight.
+Most of my work lives in enterprise SaaS, where ambiguity is high, constraints are real, and systems either hold or collapse under their own weight.
 
----
+## Find me
+
+- Linkedin: [My Linkedin](https://www.linkedin.com/in/michelle-luo-b9931a12a/)
+- Portfolio: _work in progress, intentionally_
+- GitHub: you’re already here
+- If you’re into design systems, platform UX, or design × engineering — we’ll probably get along
 
 ## What I’m known for
 
@@ -25,7 +30,6 @@ Most of my work lives in enterprise SaaS, where ambiguity is high, constraints a
   - Learning TypeScript, React, and tooling workflows
   - Interested in how design decisions survive contact with production
 
----
 
 ## How I work
 
@@ -37,7 +41,6 @@ Most of my work lives in enterprise SaaS, where ambiguity is high, constraints a
 
 I’m not loud in meetings. I think first, then speak when it counts.
 
----
 
 ## Currently exploring
 
@@ -46,7 +49,6 @@ I’m not loud in meetings. I think first, then speak when it counts.
 - Better ways to document intent, not just outcomes
 - Building small tools and plugins that remove friction
 
----
 
 ## Side notes (human stuff)
 
@@ -54,16 +56,5 @@ I’m not loud in meetings. I think first, then speak when it counts.
 - I like things that are calm, precise, and quietly opinionated
 - I enjoy making complexity feel obvious in hindsight
 
----
 
-## Find me
-
-- Portfolio: _work in progress, intentionally_
-- GitHub: you’re already here
-- If you’re into design systems, platform UX, or design × engineering — we’ll probably get along
-
----
-
-_This README is less about credentials and more about how I think. If that resonates, great. Let's grab some boba 🧋
-_
-```
+This README is less about credentials and more about how I think. If that resonates, great. Let's grab some boba 🧋
