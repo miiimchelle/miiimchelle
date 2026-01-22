@@ -4,11 +4,12 @@ I design systems, not just screens.
 
 I’m a **Senior Product Designer** working at the intersection of **design systems, platform UX, and engineering**, with a growing focus on **design engineering**. I care about clarity, scale, and making complex things feel boringly usable.
 
-Most of my work lives in enterprise SaaS, where ambiguity is high, constraints are real, and systems either hold or collapse under their own weight.
+Most of my work lives in enterprise SaaS, where ambiguity is high, constraints are real, and systems either hold or collapse under their own weight. I'm currently working at 📍 **PwC UK**.
 
 ## Find me
 
 - Linkedin: [My Linkedin](https://www.linkedin.com/in/michelle-luo-b9931a12a/)
+- Resume: [Google Drive] (https://drive.google.com/file/d/162TAFrhQumRsjoQh9Txu0A9ADMoxlio3/view?usp=sharing/)
 - Portfolio: _work in progress, intentionally_
 - If you’re into design systems, platform UX, or design × engineering — we’ll probably get along
 
