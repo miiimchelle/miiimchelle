@@ -1,10 +1,12 @@
-# 👋 Hi, I’m Michelle
+### 👋 Hi, I’m Michelle
 
 I design systems, not just screens.
 
 I’m a **Senior Product Designer** working at the intersection of **design systems, platform UX, and engineering**, with a growing focus on **design systems**. I care about clarity, scale, and making complex things feel boringly usable.
 
-Most of my work lives in enterprise SaaS, where ambiguity is high, constraints are real, and systems either hold or collapse under their own weight. I'm currently working at 📍 **PwC UK**.
+Most of my work lives in enterprise SaaS, where ambiguity is high, constraints are real, and systems either hold or collapse under their own weight. 
+
+I'm currently working at 📍 **PwC UK**.
 
 ## Find me
 
@@ -38,9 +40,6 @@ Most of my work lives in enterprise SaaS, where ambiguity is high, constraints a
 - Bias toward systems, not one-off solutions  
 - Care a lot about documentation and shared language  
 
-I’m not loud in meetings. I think first, then speak when it counts.
-
-
 ## Currently exploring
 
 - Design engineering as a craft
@@ -51,7 +50,7 @@ I’m not loud in meetings. I think first, then speak when it counts.
 
 ## Side notes (human stuff)
 
-- ADHD brain → pattern-spotting, systems thinking, deep focus when it clicks
+- ADHD brain 👉pattern-spotting, systems thinking, deep focus when it clicks
 - I like things that are calm, precise, and quietly opinionated
 - I enjoy making complexity feel obvious in hindsight
 
