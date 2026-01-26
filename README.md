@@ -12,7 +12,7 @@ I'm currently working at 📍 **PwC UK**.
 
 - Linkedin: [My Linkedin](https://www.linkedin.com/in/michelle-luo-b9931a12a/)
 - Resume: [Google Drive](https://drive.google.com/file/d/162TAFrhQumRsjoQh9Txu0A9ADMoxlio3/view?usp=sharing/)
-- Portfolio:[My portfolio](https://mmluo.me)
+- Portfolio: [My portfolio](https://mmluo.me)
 
 ## What I’m known for
 
