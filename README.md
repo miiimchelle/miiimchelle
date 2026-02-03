@@ -23,7 +23,7 @@ I'm currently working at 📍 **PwC UK**.
 
 - **Platform thinking**
   - Navigation, information architecture, system boundaries
-  - Designing for scale, not demos
+  - Designing for scale
   - Reducing cognitive load for real users under real pressure
 
 - **Bridging design and code**
