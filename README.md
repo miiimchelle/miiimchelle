@@ -40,19 +40,12 @@ I'm currently working at 📍 **PwC UK**.
 - Bias toward systems, not one-off solutions  
 - Care a lot about documentation and shared language  
 
-## Currently exploring
+## Currently exploring (side quests)
 
 - Design engineering as a craft
 - Frontend fundamentals (React, TS, tooling)
 - Better ways to document intent, not just outcomes
 - Building small tools and plugins that remove friction
-
-
-## Side notes (human stuff)
-
-- ADHD brain 👉pattern-spotting, systems thinking, deep focus when it clicks
-- I like things that are calm, precise, and quietly opinionated
-- I enjoy making complexity feel obvious in hindsight
 
 
 This README is less about credentials and more about how I think. If that resonates, great. Let's grab some boba 🧋
