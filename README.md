@@ -40,9 +40,10 @@ I'm currently working at 📍 **PwC UK**.
 - Bias toward systems, not one-off solutions  
 - Care a lot about documentation and shared language  
 
-## Currently exploring (side quests)
+## Currently on a few side quests
 
 - Design engineering as a craft
+- Working in TypeScript and React. Comfortable with the Figma Plugin API and REST API.
 - Frontend fundamentals (React, TS, tooling)
 - Better ways to document intent, not just outcomes
 - Building small tools and plugins that remove friction
