@@ -6,7 +6,7 @@ I’m a **Senior Product Designer** working at the intersection of **design syst
 
 Most of my work lives in enterprise SaaS, where ambiguity is high, constraints are real, and systems either hold or collapse under their own weight. 
 
-I'm currently working at 📍 **PwC UK**.
+I'm currently working at 📍 **BUPA UK**.
 
 ## Find me
 
@@ -27,7 +27,7 @@ I'm currently working at 📍 **PwC UK**.
   - Reducing cognitive load for real users under real pressure
 
 - **Bridging design and code**
-  - Comfortable in Figma *and* VS Code
+  - Comfortable in Figma and VS Code
   - Learning TypeScript, React, and tooling workflows
   - Interested in how design decisions survive contact with production
 
